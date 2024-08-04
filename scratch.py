@@ -57,5 +57,4 @@ def play_game():
             print("End of Game")
             break
 
-# Start the game
 play_game()
